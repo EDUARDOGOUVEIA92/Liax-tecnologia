@@ -10,7 +10,7 @@ Quando tiver terminado de criar sua conta, clique no botão "Avançar" para pros
 
 <br>
 <div align="right">
-   <a href="#">
+   <a href="https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Fazendo-um-Fork-do-reposit%C3%B3rio">
       <img src="https://i.imgur.com/OG7k1pu.png" align="right">
    </a>
    <a href="https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Contribuindo-com-o-projeto">
