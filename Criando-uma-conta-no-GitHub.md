@@ -8,4 +8,4 @@ Porém, se você deseja contribuir com o projeto integrando suas modificações 
 
 Quando tiver terminado de criar sua conta, clique no botão abaixo para prosseguir ao próximo passo do tutorial.
 
-[![Voltar](https://i.imgur.com/fPoLZr0.png)](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Contribuindo-com-o-projeto) [![Avançar](https://i.imgur.com/RW9D5Du.png)]()
+[![Voltar](https://i.imgur.com/cCsIdh6.png)](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Contribuindo-com-o-projeto) [![Avançar](https://i.imgur.com/OG7k1pu.png)]()
