@@ -1,4 +1,4 @@
-O Portugol Studio é um projeto Open Source (código aberto) o que significa que qualquer pessoa pode contribuir com seu desenvolvimento. No entanto, para que isso seja possível,é necessário ter algumas ferramentas em mãos e adquirir alguns conhecimentos.
+O Portugol Studio é um projeto Open Source (código aberto) o que significa que qualquer pessoa pode contribuir com seu desenvolvimento. No entanto, para que isso seja possível, é necessário ter algumas ferramentas em mãos e adquirir alguns conhecimentos.
 
 <br>
 
