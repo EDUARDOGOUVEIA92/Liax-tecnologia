@@ -9,10 +9,11 @@ Porém, se você deseja contribuir com o projeto integrando suas modificações 
 Quando tiver terminado de criar sua conta, clique no botão abaixo para prosseguir ao próximo passo do tutorial.
 
 <br>
-
-<div style="width:300px">
-
-<a href="https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Contribuindo-com-o-projeto"><img align="left" src="https://i.imgur.com/cCsIdh6.png"></a>
-
-<a href="#"><img align="right" src="https://i.imgur.com/OG7k1pu.png"></a>
+<div align="right">
+   <a href="#">
+      <img src="https://i.imgur.com/OG7k1pu.png" align="right">
+   </a>
+   <a href="https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Contribuindo-com-o-projeto">
+      <img src="https://i.imgur.com/cCsIdh6.png" align="right">
+   </a>
 </div>
