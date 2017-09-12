@@ -2,10 +2,11 @@ O Portugol Studio é um projeto Open Source (código aberto) o que significa que
 
 <br>
 
-O objetivo deste tutorial não é lhe ensinar programação, afinal para isto existe o Portugol Studio. Este tutorial na verdade, serve para ajudá-lo a obter e modificar o código fonte do Portugol Studio.
+O objetivo deste tutorial não é lhe ensinar programação, afinal para isto existe o Portugol Studio. Este tutorial na verdade, serve para ajudá-lo a obter e modificar o código fonte do Portugol Studio. Quando estiver pronto, clique em "Iniciar" para começar o tutorial.
 
 <br>
-
-Quando estiver pronto, clique no link abaixo para iniciar o tutorial.
-
-[![](https://i.imgur.com/S0XYNrh.png)](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Criando-uma-conta-no-GitHub)
+<div align="right">
+   <a href="https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Criando-uma-conta-no-GitHub">
+      <img src="https://i.imgur.com/S0XYNrh.png" align="right">
+   </a>
+</div>
