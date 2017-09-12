@@ -1,5 +1,3 @@
-# Criando uma conta no GitHub (em edição)
-
 Se você quer apenas baixar o código fonte, mas não deseja incorporar as suas modificações no código fonte oficial, então você poderá baixá-lo [aqui](https://github.com/UNIVALI-LITE/Portugol-Studio/archive/master.zip), sem a necessidade de criar uma conta. Este processo é mais simples se você for apenas estudar como o código fonte do Portugol Studio funciona e/ou executar a versão mais recente.
 
 <br>
