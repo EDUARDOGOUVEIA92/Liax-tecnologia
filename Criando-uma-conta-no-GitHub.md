@@ -6,7 +6,7 @@ Porém, se você deseja contribuir com o projeto integrando suas modificações 
 
 <br>
 
-Quando tiver terminado de criar sua conta, clique no botão abaixo para prosseguir ao próximo passo do tutorial.
+Quando tiver terminado de criar sua conta, clique no botão "Avançar" para prosseguir ao próximo passo do tutorial.
 
 <br>
 <div align="right">
