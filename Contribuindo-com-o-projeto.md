@@ -8,4 +8,4 @@ O objetivo deste tutorial não é lhe ensinar programação, afinal para isto ex
 
 Quando estiver pronto, clique no link abaixo para iniciar o tutorial.
 
-[![](https://i.imgur.com/2oJIxdh.png)](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Criando-uma-conta-no-GitHub)
+[![](https://i.imgur.com/AHBIl8I.png)](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Criando-uma-conta-no-GitHub)
