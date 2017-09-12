@@ -1,0 +1,1 @@
+* [Contribuindo com o projeto](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Contribuindo-com-o-projeto)
