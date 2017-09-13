@@ -1,5 +1,5 @@
 <p align="justify">
-Após criar sua conta do GitHub, você deve fazer um <a href="https://help.github.com/articles/fork-a-repo">Fork</a> do repositório do Portugol Studio. Ao fazer um fork, é como se fosse criada uma cópia do código fonte do Portugol Studio na sua conta. Você pode modificar esta cópia à vontade sem afetar o código fonte original.
+Após criar sua conta do GitHub, você deve fazer um <a href="https://help.github.com/articles/fork-a-repo" target="_blank">Fork</a> do repositório do Portugol Studio. Ao fazer um fork, é como se fosse criada uma cópia do código fonte do Portugol Studio na sua conta. Você pode modificar esta cópia à vontade sem afetar o código fonte original.
 </p>
 
 <br>
