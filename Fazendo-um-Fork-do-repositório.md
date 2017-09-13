@@ -20,6 +20,12 @@ Na tela que se abrirá, selecione a sua conta do GitHub para iniciar o fork do r
 
 <br>
 
+<div align="center">
+    <img src="https://i.imgur.com/p4V9g1z.gif">
+</div>
+
+<br>
+
 Assim que o fork do repositório tiver sido concluído, você será redirecionado automaticamente para a cópia do repositório na sua conta do GtiHub. VocÊ pode confirmar que a cópia foi feita corretamenta verificando o status do repositório no canto superior esquerdo da página. O status conterá a mensagem: **_"forked from UNIVALI-LITE/Portugol-Studio"_**.
 
 <br>
