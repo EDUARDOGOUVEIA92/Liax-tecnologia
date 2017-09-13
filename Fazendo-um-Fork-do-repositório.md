@@ -17,7 +17,8 @@ Para fazer o fork, você deve primeiro logar na sua conta do Github e em seguida
 <br>
 
 <div align="center">
-    <img src="https://i.imgur.com/eCdw8Bw.png">
+    <a href="https://i.imgur.com/eCdw8Bw.png"><img src="https://i.imgur.com/eCdw8Bw.png"></a>
+    <small>Segure "Ctrl" e clique na imagem para ampliá-la</small>
 </div>
 
 <br>
@@ -41,7 +42,8 @@ Assim que o fork do repositório tiver sido concluído, você será redirecionad
 <br>
 
 <div align="center">
-    <img src="https://i.imgur.com/dSWT7ma.png">
+    <a href="https://i.imgur.com/dSWT7ma.png"><img src="https://i.imgur.com/dSWT7ma.png"></a>
+    <small>Segure "Ctrl" e clique na imagem para ampliá-la</small>
 </div>
 
 <br>
