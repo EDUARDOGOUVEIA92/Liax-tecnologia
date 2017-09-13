@@ -5,7 +5,7 @@ O Portugol Studio é um projeto Open Source (código aberto) o que significa que
 <br>
 
 <p align="justify">
-O objetivo deste tutorial não é lhe ensinar programação, afinal para isto existe o Portugol Studio. Este tutorial na verdade, serve para ajudá-lo a obter e modificar o código fonte do Portugol Studio. Quando estiver pronto, clique em "Iniciar" para começar o tutorial.
+O objetivo deste tutorial não é lhe ensinar programação, afinal para isto existe o Portugol Studio. Este tutorial na verdade, serve para ajudá-lo a obter e modificar o código fonte do projeto. Quando estiver pronto, clique em "Iniciar" para começar o tutorial.
 </p>
 
 <br>
