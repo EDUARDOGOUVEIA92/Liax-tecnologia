@@ -28,13 +28,25 @@ Abra o GitKraken
 Quando ele terminar de abrir a seguinte tela aparecerá:
 
 <div align="center">
-    <a href="https://git-scm.com/downloads"><img src="https://cdn.discordapp.com/attachments/571157550956019741/624037306273235016/unknown.png" width="250"></a>
+    <a><img src="https://cdn.discordapp.com/attachments/571157550956019741/624037306273235016/unknown.png" width="250"></a>
 </div>
 
 Entre com sua conta do Github clicando em *Sign in with Github*. O seu Browser irá abrir pedindo para entrar no seu Github (se você não estiver logado ainda). Entre na sua conta e na próxima tela clique em *Authorize* e sua conta Github se ligará ao GitKraken.
 
 # Clonando o projeto
 Nesta parte faremos o download do Portugol Studio como um projeto versionado git.
+
+Primeiro entre na sua conta do Github em um browser e entre no seu repositório Fork que você deve ter feito nos tutoriais anteriores. No seu repositório clique no botão verde chamado *Clone or Download* e em seguida no botão marcado pela seguinte imagem.
+
+<div align="center">
+    <a><img src="https://cdn.discordapp.com/attachments/571157550956019741/624043968103055370/unknown.png"></a>
+</div>
+
+O link para o seu repositório git foi copiado para sua área de transferência. Agora é necessário baixar o repositório através do GitBash ou do GitKraken, isso é visto no próximo tópico. Para isso é sugerido ter uma pasta no seu computador que terá repositórios que serão baixados do git.
+
+## GitBash
+
+## GitKraren
 
 # Puxando atualizações
 
