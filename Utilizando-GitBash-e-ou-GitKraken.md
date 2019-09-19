@@ -6,8 +6,8 @@ Existem diversas maneiras de se utilizar o git, com diversas ferramentas. Neste 
 Faça o download do GitBash neste [link](https://git-scm.com/downloads) ou do GitKraken neste [link](https://www.gitkraken.com/).
 Instale o de sua preferencia.
 <div align="center">
-    <a href="https://git-scm.com/downloads"><img src="https://cdn.discordapp.com/attachments/571157550956019741/622108484913201162/unknown.png" width="400"></a>
-    <a href="https://www.gitkraken.com/"><img src="https://cdn.discordapp.com/attachments/571157550956019741/622109305491161102/unknown.png" width="400"></a>
+    <a href="https://git-scm.com/downloads"><img src="https://cdn.discordapp.com/attachments/571157550956019741/622108484913201162/unknown.png" width="350"></a>
+    <a href="https://www.gitkraken.com/"><img src="https://cdn.discordapp.com/attachments/571157550956019741/622109305491161102/unknown.png" width="350"></a>
 </div>
 
 # Configurando ambiente
