@@ -181,7 +181,10 @@ Clique em `Commit changes do N files`. Você terá feito um commit, mas apenas l
 
 ## 5.3 Final
 Uma vez feito o push por qualquer um dos dois métodos, você já poderá ver no repositório no github seu commit com as modificações:
+
 <img src="https://cdn.discordapp.com/attachments/571157550956019741/627246171991179295/unknown.png" width="800">
+
+Nas próximas seções veremos como fazer um pull request ao Portugol, para que suas modificações possam chegar ao Portugol Oficial.
 
 <div align="right">
    <a href="#">
