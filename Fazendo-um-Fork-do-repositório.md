@@ -53,7 +53,7 @@ Pronto! Você já tem a sua própria versão do código fonte do Portugol Studio
 <br>
 
 <div align="right">
-   <a href="#">
+   <a href="https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Utilizando-GitBash-e-ou-GitKraken">
       <img src="https://i.imgur.com/OG7k1pu.png" align="right">
    </a>
    <a href="https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Criando-uma-conta-no-GitHub">
