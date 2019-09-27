@@ -187,7 +187,7 @@ Uma vez feito o push por qualquer um dos dois métodos, você já poderá ver no
    <a href="#">
       <img src="https://i.imgur.com/OG7k1pu.png" align="right">
    </a>
-   <a href="https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Criando-uma-conta-no-GitHub">
+   <a href="https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Fazendo-um-Fork-do-reposit%C3%B3rio">
       <img src="https://i.imgur.com/cCsIdh6.png" align="right">
    </a>
 </div>
