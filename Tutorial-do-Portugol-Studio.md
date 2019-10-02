@@ -1,4 +1,4 @@
-Nosso projeto:
+Nosso projeto:https://github.com/UNIVALI-LITE/Portugol-Studio
 
 e-mail: portugol.studio@gmail.com
 
