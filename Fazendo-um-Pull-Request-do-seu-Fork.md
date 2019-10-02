@@ -73,10 +73,10 @@ Caso perceba que não quer adicionar suas modificações no Portugol-Studio ou h
 Ao clicar neste botão, seu Pull Request será fechado, entretanto ele não desaparecerá, apenas indicará que ele não deve ser adicionado ao código oficial.
 
 <div align="right">
-   <a href="https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Fazendo-um-Fork-do-reposit%C3%B3rio">
+   <a href="#">
       <img src="https://i.imgur.com/OG7k1pu.png" align="right">
    </a>
-   <a href="#">
+   <a href="https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Utilizando-GitBash-e-ou-GitKraken/">
       <img src="https://i.imgur.com/cCsIdh6.png" align="right">
    </a>
 </div>
