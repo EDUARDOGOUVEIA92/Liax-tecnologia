@@ -1,0 +1,1 @@
+Aqui falaremos sobre a classe principal da IDE a PortugolStudio.java
