@@ -1,0 +1,1 @@
+Aqui veremos o funcionamento do painel de exemplos do Portugol Studio
