@@ -1,0 +1,1 @@
+Aqui será explicado o funcionamento do Editor de código do Portugol Studio.
