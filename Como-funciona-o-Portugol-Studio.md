@@ -21,5 +21,6 @@ Abaixo está uma lista com links para cada uma das páginas correspondente a cad
 6. [Aba Ajuda]("#")
 7. [Aba Código Fonte]("#")
 8. [Editor]("#")
+8. [Painel Exemplo]("#")
 
 Clique nos nomes dos componentes para ir até suas paginas respectivas.
