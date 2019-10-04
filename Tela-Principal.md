@@ -1,0 +1,1 @@
+Aqui veremos como funciona a Tela Principal do Portugol Studio
