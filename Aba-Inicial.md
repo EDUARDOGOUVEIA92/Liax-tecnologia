@@ -1,0 +1,1 @@
+Aqui veremos as funções e configurações da Aba Inicial do Portugol Studio
