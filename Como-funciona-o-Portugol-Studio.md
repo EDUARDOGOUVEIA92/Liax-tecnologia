@@ -1,4 +1,5 @@
 Aqui você aprenderá os principais componentes do Portugol Studio, suas funções, objetivos e como estão organizados. Esse tutorial não tem como objetivo ensinar a programar, portanto, termos já conhecidos da programação serão utilizados.
+
 Aqui será tratado por enquanto apenas alguns dos componentes mais relevantes do Portugol e que são interessantes para futuras modificações.
 
 # Arquitetura
