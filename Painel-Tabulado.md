@@ -1,0 +1,1 @@
+Aqui veremos as configurações do painel tabulado do Portugol Studio.
