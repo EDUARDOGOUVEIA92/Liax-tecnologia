@@ -1,0 +1,1 @@
+Nesta parte será explicado o funcionamento da Aba Ajuda do Portugol Studio.
