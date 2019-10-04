@@ -1,0 +1,1 @@
+Nesta parte será explicada uma das maiores classes do Portugol Studio a Aba Código Fonte
