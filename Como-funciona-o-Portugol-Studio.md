@@ -14,13 +14,13 @@ Esses componentes serão revistos neste tutorial para ajudar quem deseja contrib
 Abaixo está uma lista com links para cada uma das páginas correspondente a cada componente
 
 1. [Portugol Studio]("#")
-2. [Tela Principal]("#")
-3. [Painel Tabulado]("#")
-4. [Aba]("#")
-5. [Aba Inicial]("#")
-6. [Painel Exemplo]("#")
-7. [Aba Código Fonte]("#")
-8. [Editor]("#")
-9. [Aba Ajuda]("#")
+1. [Tela Principal]("#")
+1. [Painel Tabulado]("#")
+1. [Aba]("#")
+   1. [Aba Inicial]("#")
+      1. [Painel Exemplo]("#")
+   1. [Aba Código Fonte]("#")
+       1. [Editor]("#")
+   1. [Aba Ajuda]("#")
 
 Clique nos nomes dos componentes para ir até suas paginas respectivas.
