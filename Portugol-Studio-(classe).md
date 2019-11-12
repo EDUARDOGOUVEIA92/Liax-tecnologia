@@ -108,22 +108,53 @@ PainelPluginsInstalados plugins= (PainelPluginsInstalados)((TelaCustomBorder)Por
 Alternativamente você pode alterar a tela acessando ela na seguinte localização: `ide\src\main\java\br\univali\ps\ui\telas\PainelPluginsInstalados.java`
 
 ------
-### public TelaCustomBorder getTelaInformacoesPlugin()
-
-------
 ### public JDialog getTelaLicencas()
+Função que possui a tela de Licenças de uso dos componentes do Portugol Studio. No PortugolStudio essa tela é acessível na Aba Inicial, pelos menus inferiores, é possível localizar a opção "Sobre", que te apresentará a tela de informações do Portugol. No canto inferior direito desta tela, no ícone de um papel, ao clicar nele a tela aparecerá. Essa tela possui abas com todas as licenças de uso de componentes do Portugol Studio.
+
+Retorna: Instância de JDialog da TelaLicencas.
+
+A tela é um JDialog e para acessar o painel TelaLicencas contendo os componentes é necessário chamar a função getPanel fazendo um cast de TelaCustomBorder e TelaLicencas. Ex:
+
+```JAVA
+TelaLicencas licencas= (TelaLicencas)((TelaCustomBorder)PortugolStudio.getInstancia().getTelaLicencas()).getPanel();
+```
+Alternativamente você pode alterar a tela acessando ela na seguinte localização: `ide\src\main\java\br\univali\ps\ui\telas\TelaLicencas.java`
 
 ------
 ### public JDialog getTelaEditarTemas()
+Função que possui a tela de edição de temas do Portugol Studio. No PortugolStudio essa tela é acessível na Aba Inicial, pelos menus inferiores, é possível localizar a opção "dicas interface", que te apresentará a com dicas da interface do  Portugol. No canto inferior direito desta tela, no ícone colorido "Trocar tema", ao clicar nele a tela aparecerá. Alternativamente em uma aba de código fonte, é possível acessa-la por clicar na engrenagem no canto direito superior da tela e clicar em "Editar Temas". Essa tela possui uma lista de cores editáveis de diversas partes do Portugol Studio.
 
-------
-### public JDialog getTelaPesquisarSubstituir()
+Retorna: Instância de JDialog da TelaEditarTemas.
+
+A tela é um JDialog e para acessar o painel TelaEditarTemas contendo os componentes é necessário chamar a função getPanel fazendo um cast de TelaCustomBorder e TelaEditarTemas. Ex:
+
+```JAVA
+TelaEditarTemas temas= (TelaEditarTemas)((TelaCustomBorder)PortugolStudio.getInstancia().getTelaEditarTemas()).getPanel();
+```
+Alternativamente você pode alterar a tela acessando ela na seguinte localização: `ide\src\main\java\br\univali\ps\ui\telas\TelaEditarTemas.java`
 
 ------
 ### public PSFindReplace getTelaProcurarSubstituirPanel()
+Função que possui a tela de procurar e substituir texto do Portugol Studio. No PortugolStudio essa tela é acessível na Aba Código Fonte, ao apertar "Ctrl+F" no editor de texto. Alternativamente na aba de código fonte, é possível acessa-la por clicar na engrenagem no canto direito superior da tela e clicar em "Pesquisar e Substituir". Essa tela permite buscar por palavras pelo texto do editor do Portugol Studio e substitui-las por outro texto .
 
-------
-### public JDialog getTelaRenomearSimbolo()
+Retorna: Instância de PSFindReplace da TelaProcurarSubstituir.
+
+A função chama diretamente o painel com a tela, portanto pode se instancias ela diretamente. Ex:
+
+```JAVA
+PSFindReplace psfr= PortugolStudio.getInstancia().getTelaProcurarSubstituirPanel();
+```
+Alternativamente você pode alterar a tela acessando ela na seguinte localização: `ide\src\main\java\br\univali\ps\ui\editor\PSFindReplace.java`
 
 ------
 ### public TelaRenomearSimbolo getTelaRenomearSimboloPanel()
+Função que possui a tela de renomear símbolos do Portugol Studio. No PortugolStudio essa tela é acessível na Aba Código Fonte, ao apertar "Ctrl+R" no editor de texto. Essa tela permite buscar nomes de variáveis, matrizes ou vetores pelo texto do editor do Portugol Studio e substituir por outro nome.
+
+Retorna: Instância de TelaRenomearSimbolo da TelaRenomearSimboloPanel.
+
+A função chama diretamente o painel com a tela, portanto pode se instancias ela diretamente. Ex:
+
+```JAVA
+TelaRenomearSimbolo psfr= PortugolStudio.getInstancia().getTelaRenomearSimboloPanel();
+```
+Alternativamente você pode alterar a tela acessando ela na seguinte localização: `ide\src\main\java\br\univali\ps\ui\telas\TelaRenomearSimbolo.java`
