@@ -6,7 +6,7 @@ Essa classe, mantém o painel tabulado do Portugol Studio. A partir desse painel
 `ide\src\main\java\br\univali\ps\telas\TelaPrincipal.java`
 
 # Funções
-A seguir serão apresentadas as funções da classe Tela Princiapl mais úteis para trabalhar no desenvolvimento do projeto. 
+A seguir serão apresentadas as funções da classe Tela Principal mais úteis para trabalhar no desenvolvimento do projeto. 
 
 ------
 ### public PainelTabuladoPrincipal getPainelTabulado()
