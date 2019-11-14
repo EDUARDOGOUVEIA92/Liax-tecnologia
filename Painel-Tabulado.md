@@ -10,17 +10,24 @@ A seguir serão apresentadas as funções da classe PainelTabuladoPrincipal mais
 
 ------
 ### public AbaInicial getAbaInicial()
-Essa função retornará a classe PainelTabuladoPrincipal que contém todas as abas abertas do Portugol Studio.
-Mais detalhes dela aqui.
+Essa função retornará a classe AbaInicial que contém a primeira Aba do Portugol, com os exemplos e os arquivos recentes.
+
 Ex:
 ```JAVA
-PainelTabuladoPrincipal painelTab = PortugolStudio.getInstancia().getTelaPrincipal().getPainelTabulado();
+AbaInicial painelTab = PortugolStudio.getInstancia().getTelaPrincipal().getPainelTabulado().getAbaInicial();
 ```
 
-Retorna: Instância da classe PainelTabuladoPrincipal.
+Retorna: Instância da classe AbaInicial.
 
 ------
 ### public AbaAjuda getAbaAjuda() 
+Essa função retornará a classe AbaAjuda que contém a Aba de ajuda do Portugol, com a documentação da Sintaxe e da Bibliotecas do Portugol Studio.
+Ex:
+```JAVA
+AbaAjuda ajuda = PortugolStudio.getInstancia().getTelaPrincipal().getPainelTabulado().getAbaAjuda();
+```
+
+Retorna: Instância da classe AbaAjuda.
 
 ------
 ### public Aba mudarParaAba(Aba aba)
